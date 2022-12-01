@@ -131,3 +131,10 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     </div>
   </div>
 </article>
+
+## Academic Talk
+- [ACMCV 2022](http://acmcv.cat/), 2022.09
+- [DLBCN 2022](https://sites.google.com/view/dlbcn2022/home?authuser=0), 2022.12
+
+## Contact
+jshen@iri.upc.edu
