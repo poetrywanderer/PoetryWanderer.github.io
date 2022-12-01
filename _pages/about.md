@@ -57,7 +57,7 @@ My research is in areas of computer vision and machine learning. Recently my foc
       }
 </style>
 
-Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?user=1fkvaz4AAAAJ&hl=fr).
+Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=2L7sQVQAAAAJ).
 
 <!-- 2022 CF-NeRF -->
 <article class="row">
