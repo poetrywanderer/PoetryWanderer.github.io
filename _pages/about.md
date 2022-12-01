@@ -137,4 +137,13 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 - [DLBCN 2022](https://sites.google.com/view/dlbcn2022/home?authuser=0), 2022.12
 
 ## Contact
+
+<article class="row">
+  <div class="column left">
+    <figure class="image">
+      <img src="../images/IRI.png" width="100%">
+    </figure>
+  </div>
+</article>
+
 jshen@iri.upc.edu
