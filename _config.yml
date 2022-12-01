@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianxiong Shen"
-  avatar           : "profile.png"
+  avatar           : "../images/profile.jpg"
   bio              : "Ph.D. Student at IRI"
   location         : "Barcelona, Spain"
   employer         :
