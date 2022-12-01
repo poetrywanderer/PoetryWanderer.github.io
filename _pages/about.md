@@ -63,7 +63,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/2022-CF-NeRF.png" width="100%">
+      <img src="../images/2022-CF-NeRF.jpeg" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -77,8 +77,8 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Conditional-Flow NeRF: Accurate 3D modelling with Reliable Uncertainty Estimation</b><br>
         <b>Jianxiong Shen</b>, Antonio Agudo, Francesc Moreno-Noguer, Adria Ruiz<br>
         <i>ECCV 2022</i><br>
-        <a href="https://poetrywanderer.github.io/CF-NeRF/" >Project Page</a>
-        <a href="https://arxiv.org/abs/2203.10192" >Paper</a>
+        <a href="https://poetrywanderer.github.io/CF-NeRF/" >Project Page</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://arxiv.org/abs/2203.10192" >Paper</a>&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/poetrywanderer/CF-NeRF" >Code</a>&nbsp;&nbsp;&nbsp;
         <!-- <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a> -->
@@ -100,7 +100,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/2021-S-NeRF.png" width="100%">
+      <img src="../images/2021-S-NeRF.jpeg" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -114,8 +114,8 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations</b><br>
         <b>Jianxiong Shen</b>, Adria Ruiz, Antonio Agudo, Francesc Moreno-Noguer<br>
         <i>3DV 2021 </i><br>
-        <a href="https://poetrywanderer.github.io/CF-NeRF/" >Project Page</a>
-        <a href="https://github.com/poetrywanderer/CF-NeRF" >Code</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://arxiv.org/abs/2109.02123" >Paper</a>&nbsp;&nbsp;&nbsp;
+        <!-- <a href="https://github.com/poetrywanderer/CF-NeRF" >Code</a>&nbsp;&nbsp;&nbsp; -->
         <!-- <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a> -->
         <a onclick="javascript:ShowHide('#bibtex')" href="javascript:;">Bibtex</a>
