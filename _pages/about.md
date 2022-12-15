@@ -117,7 +117,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Jianxiong Shen</b>, Adria Ruiz, Antonio Agudo, Francesc Moreno-Noguer<br>
         <i>3DV 2021 </i><br>
         <a href="https://arxiv.org/abs/2109.02123" >Paper</a>&nbsp;&nbsp;&nbsp;
-        <!-- <a href="https://github.com/poetrywanderer/CF-NeRF" >Code</a>&nbsp;&nbsp;&nbsp; -->
+        <a href="../files/3DV-Poster-159.pptx" >Poster</a>&nbsp;&nbsp;&nbsp;
         <!-- <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a> -->
         <a onclick="javascript:ShowHide('#bibtex')" href="javascript:;">Bibtex</a>
