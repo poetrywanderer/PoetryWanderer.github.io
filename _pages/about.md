@@ -80,6 +80,8 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <a href="https://poetrywanderer.github.io/CF-NeRF/" >Project Page</a>&nbsp;&nbsp;&nbsp;
         <a href="https://arxiv.org/abs/2203.10192" >Paper</a>&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/poetrywanderer/CF-NeRF" >Code</a>&nbsp;&nbsp;&nbsp;
+        <a href="../files/Spotlight_CF-NeRF.pptx" >Slide</a>&nbsp;&nbsp;&nbsp;
+        <a href="../files/ECCV-Poster-7028.pptx" >Poster</a>&nbsp;&nbsp;&nbsp;
         <!-- <a href="https://arxiv.org/abs/2207.01567" target="_blank">[paper]</a>
         <a href="https://github.com/dulucas/siMLPe" target="_blank">[Code]</a> -->
         <a onclick="javascript:ShowHide('#bibtex')" href="javascript:;">Bibtex</a>
