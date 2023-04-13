@@ -11,7 +11,7 @@ redirect_from:
 I am a Fourth-year Ph.D. student at [IRI-UPC](http://www.iri.upc.edu/) under the supervision of [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/) 
 and [Adria Ruiz](https://scholar.google.es/citations?user=h5cFva0AAAAJ&hl=ca). Before that, I received the Master's and Bachelor's degrees from Harbin Institute of Technology ([HIT](http://studyathit.hit.edu.cn/)) in China.
 
-My research is in areas of computer vision and machine learning. Recently my focus lies in exploring the interpretability of 3D modeling, particularly the uncertainty associated with 3D models, with few source data.
+My research is in areas of computer vision and machine learning. Recently my focus lies in exploring the interpretability of 3D Scene Modeling mainly on NeRF, particularly the uncertainty beyond 3D models, with few source data.
 
 ## Publications
 <style>
