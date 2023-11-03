@@ -62,13 +62,8 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <!-- 2023 ICRA submission -->
 <article class="row">
   <div class="column left">
-    <!-- <figure class="image">
-      <img src="../images/2022-CF-NeRF.jpeg" width="100%">
-    </figure> -->
     <figure class="image">
-      <object data="../images/2023-ICRA.pdf" type="application/pdf" width="100%" height="600">
-        <p>It appears you don't have a PDF plugin for this browser. You can <a href="path-to-your-pdf-file.pdf">click here to download the PDF file.</a></p>
-      </object>
+      <img src="../images/2023-ICRA.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -83,7 +78,6 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Jianxiong Shen</b>, Ruijie Ren, Adria Ruiz, Francesc Moreno-Noguer<br>
         <i>Arxiv 2023</i><br>
         <a href="https://arxiv.org/abs/2203.10192" >Paper</a>&nbsp;&nbsp;&nbsp;
-        </pre>
       </p>
     </div>
   </div>
