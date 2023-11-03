@@ -59,6 +59,36 @@ My research is in areas of computer vision and machine learning. Recently my foc
 
 Here is a selection of recent publications, full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=2L7sQVQAAAAJ).
 
+<!-- 2023 ICRA submission -->
+<article class="row">
+  <div class="column left">
+    <!-- <figure class="image">
+      <img src="../images/2022-CF-NeRF.jpeg" width="100%">
+    </figure> -->
+    <figure class="image">
+      <object data="../images/2023-ICRA.pdf" type="application/pdf" width="100%" height="600">
+        <p>It appears you don't have a PDF plugin for this browser. You can <a href="path-to-your-pdf-file.pdf">click here to download the PDF file.</a></p>
+      </object>
+    </figure>
+  </div>
+  <div class="column middle">
+    <figure class="image">
+      <img src="../images/blank_placeholder.png" width="100%">
+    </figure>
+  </div>
+  <div class="column right">
+    <div class="content">
+      <p>
+        <b>Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields</b><br>
+        <b>Jianxiong Shen</b>, Ruijie Ren, Adria Ruiz, Francesc Moreno-Noguer<br>
+        <i>Arxiv 2023</i><br>
+        <a href="https://arxiv.org/abs/2203.10192" >Paper</a>&nbsp;&nbsp;&nbsp;
+        </pre>
+      </p>
+    </div>
+  </div>
+</article>
+
 <!-- 2022 CF-NeRF -->
 <article class="row">
   <div class="column left">
@@ -148,4 +178,4 @@ Here is a selection of recent publications, full list can be found on [Google Sc
   </div>
 </article>
 
-jshen@iri.upc.edu
+[jshen@iri.upc.edu]()
