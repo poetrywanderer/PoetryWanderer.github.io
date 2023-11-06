@@ -77,7 +77,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
         <b>Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields</b><br>
         <b>Jianxiong Shen</b>, Ruijie Ren, Adria Ruiz, Francesc Moreno-Noguer<br>
         <i>Arxiv 2023</i><br>
-        <a href="https://arxiv.org/abs/2203.10192" >Paper</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://arxiv.org/abs/2311.01815" >Paper</a>&nbsp;&nbsp;&nbsp;
       </p>
     </div>
   </div>
