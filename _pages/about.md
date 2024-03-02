@@ -11,7 +11,7 @@ redirect_from:
 I am now a Ph.D. student at [IRI-UPC](http://www.iri.upc.edu/) under the supervision of [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/) 
 and [Adria Ruiz](https://scholar.google.es/citations?user=h5cFva0AAAAJ&hl=ca). Before that, I received the Master's and Bachelor's degrees from Harbin Institute of Technology ([HIT](http://studyathit.hit.edu.cn/)) in China.
 
-My research is in areas of computer vision and machine learning. Recently my focus lies in exploring the interpretability of 3D Scene Modeling mainly on NeRF, particularly the uncertainty beyond 3D models, with few source data.
+My research is in areas of computer vision and machine learning. My previous work involves in exploring the interpretability of 3D Scene Modeling mainly on NeRF, particularly the uncertainty beyond 3D models, with few source data. My recent interest is to exploring the amazing 3DGS ～
 
 ## Publications
 <style>
@@ -76,7 +76,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
       <p>
         <b>Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields</b><br>
         <b>Jianxiong Shen</b>, Ruijie Ren, Adria Ruiz, Francesc Moreno-Noguer<br>
-        <i>Arxiv 2023</i><br>
+        <i>Accepted to ICRA 2024!</i><br>
         <a href="https://arxiv.org/abs/2311.01815" >Paper</a>&nbsp;&nbsp;&nbsp;
       </p>
     </div>
