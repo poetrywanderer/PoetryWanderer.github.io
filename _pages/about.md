@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-&#128293;找工作中，欢迎随时联系 !!&#128293;
+🎯🎯找工作中，欢迎随时联系 !!
+
+邮件：15549298924@163.com
+微信：poetrywonderer
 
 I am now a Ph.D. student at [IRI-UPC](http://www.iri.upc.edu/) under the supervision of [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/) 
 and [Adria Ruiz](https://scholar.google.es/citations?user=h5cFva0AAAAJ&hl=ca). Before that, I received the Master's and Bachelor's degrees from Harbin Institute of Technology ([HIT](http://studyathit.hit.edu.cn/)) in China.
@@ -184,5 +187,3 @@ Here is a selection of recent publications, full list can be found on [Google Sc
     </figure>
   </div>
 </article>
-
-[jshen@iri.upc.edu]()
