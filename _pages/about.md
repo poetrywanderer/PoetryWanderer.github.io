@@ -8,10 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+&#128293;找工作中，欢迎随时联系 !!&#128293;
+
 I am now a Ph.D. student at [IRI-UPC](http://www.iri.upc.edu/) under the supervision of [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/) 
 and [Adria Ruiz](https://scholar.google.es/citations?user=h5cFva0AAAAJ&hl=ca). Before that, I received the Master's and Bachelor's degrees from Harbin Institute of Technology ([HIT](http://studyathit.hit.edu.cn/)) in China.
 
-My research is in areas of computer vision and machine learning. My previous work involves in exploring the interpretability of 3D Scene Modeling mainly on NeRF, particularly the uncertainty beyond 3D models, with few source data. My recent interest is to exploring the amazing 3DGS ～
+My research is in areas of computer vision and machine learning. My previous work involves in exploring the interpretability of 3D Scene Modeling mainly on NeRF, particularly the uncertainty beyond 3D models, with few source data. 
+
+My recent interest lies in exploring the amazing 3DGS ～
+
+## News
+<!-- 无序列表 -->
+<ul>
+    <li>[2024.1.29] One paper got accepted to ICRA 2024!</li>
+    <li>[2023.12.21] Excited to start an intern in Tecent AI Lab (Shenzhen)!</li>
+    <li>...</li>
+</ul>
+
 
 ## Publications
 <style>
@@ -63,7 +76,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/2023-ICRA.png" width="100%">
+      <img src="../images/2024-ICRA.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -87,7 +100,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/2022-CF-NeRF.jpeg" width="100%">
+      <img src="../images/2022-CF-NeRF.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
@@ -126,7 +139,7 @@ Here is a selection of recent publications, full list can be found on [Google Sc
 <article class="row">
   <div class="column left">
     <figure class="image">
-      <img src="../images/2021-S-NeRF.jpeg" width="100%">
+      <img src="../images/2021-S-NeRF.png" width="100%">
     </figure>
   </div>
   <div class="column middle">
