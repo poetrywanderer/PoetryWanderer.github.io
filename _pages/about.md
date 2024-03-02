@@ -23,7 +23,7 @@ My recent interest lies in exploring the amazing 3DGS ～
 ## News
 <!-- 无序列表 -->
 <ul>
-    <li>[2024.1.29] One paper got accepted to ICRA 2024!</li>
+    <li>[2024.1.29] One paper got accepted to ICRA 2024! See u there &#128526;</li>
     <li>[2023.12.21] Excited to start an intern in Tecent AI Lab (Shenzhen)!</li>
     <li>...</li>
 </ul>
