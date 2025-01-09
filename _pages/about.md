@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-邮件：15549298924@163.com
-微信：poetrywonderer
-
 I am now a research scientist in Tencent, Shenzhen. In July 2024, I finshed my Ph.D. career at [IRI-UPC](http://www.iri.upc.edu/) under the supervision of [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/) 
 and [Adria Ruiz](https://scholar.google.es/citations?user=h5cFva0AAAAJ&hl=ca). Before that, I received the Master's and Bachelor's degrees from Harbin Institute of Technology ([HIT](http://studyathit.hit.edu.cn/)) in China.
 
